@@ -9,7 +9,7 @@ as well as the creation of posts, adding comments in each post and pagination.
 - **multiple page view using layouts**
 - **Cycles for posts in Laravel**
 - **Application of pagination in comments**
-- **- **Routes according to the GRID system**
+- **Routes according to the GRID system**
 - **Migrations and joining of hasMani tables**
 - **Initial loading**
 -**Used a fair wind a wonderful framework for css design, a wonderful framework for design**
